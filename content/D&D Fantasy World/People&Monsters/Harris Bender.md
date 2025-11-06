@@ -1,3 +1,9 @@
+---
+aliases:
+  - Steward Bender
+  - Steward Harris
+  - Harris
+---
 Steward for [[Plad Redos]] and the [[Barony of Ulaster]].
 
 An old companion of [[Plad Redos]] during their hay days  An monk fighter who is known for his aggression.  Often accompany by laughter.  At one point known as "The Iron Ogre".

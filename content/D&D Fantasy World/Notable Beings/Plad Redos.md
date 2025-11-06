@@ -1,6 +1,8 @@
 ---
 aliases:
   - Plad
+tags:
+  - NPC
 ---
 The Old Baron Overseeing the Frontier Barony of [[Ulaster]].
 

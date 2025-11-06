@@ -3,6 +3,8 @@ aliases:
   - Steward Bender
   - Steward Harris
   - Harris
+tags:
+  - NPC
 ---
 Steward for [[Plad Redos]] and the [[Barony of Ulaster]].
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Session
+---
 ### Session Introduction
 
 #### Session Description

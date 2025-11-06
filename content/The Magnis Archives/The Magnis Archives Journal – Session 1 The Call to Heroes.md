@@ -1,3 +1,8 @@
+---
+tags:
+  - MagnisArchive
+---
+
 Praise be to [[Yondalla]] on this day for she has guided me to [[Biamont]], a dusty crossroads in the borderlands. Steward [[Harris Bender]], a half-orc with more scar than smile, was offering gold for heroes to fight rampaging goblin [[Monsal|Monsals]] growing  bolder, cleverer, organized. I feel this has been ripped from one of [[Hoppa Lingoberry|Professor Lingoberry]]’s tales of frontier perils - life imitates art!
 
 Before I could finish my first drink, [[Yondalla]] saw fit to surround me with company: [[Bonnie]], a fairy brighter than dawn and twice as chaotic; [[Keranous Au Raa]], a paladin so tall I get a nosebleed looking up; [[Alice Grace]], a proud forest elf with her wolf Miki, with fangs sharper than daggers; and [[Dimsum Hagao]], an Owlin barbarian enchanted with “shinies”. 

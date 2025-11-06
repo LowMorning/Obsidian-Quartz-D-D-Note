@@ -1,1 +1,6 @@
+---
+tags:
+  - NPC
+---
+
 Son of [[Harris Bender]], a young fighter who is know to clear the [[Monsal]] near [[Biamont]].  Was captured by a group of goblins disguised as [[Monsal]].

@@ -4,4 +4,6 @@ aliases:
   - Professor Lingoberry
   - Hoppa
   - Lingoberry
+tags:
+  - NPC
 ---

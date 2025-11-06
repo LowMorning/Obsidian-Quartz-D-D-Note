@@ -1,4 +1,6 @@
 ---
 aliases:
   - Keranous
+tags:
+  - Player
 ---

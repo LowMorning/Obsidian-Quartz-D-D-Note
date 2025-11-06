@@ -1,1 +1,6 @@
+---
+tags:
+  - Familiar
+---
+
 A bat familiar summoned by [[Magnis Therred]].  The author of [[The Magnis Archives Index|The Magnis Archives]].

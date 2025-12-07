@@ -6,7 +6,7 @@ Praise be to [[Yondalla]] on this day for she has guided me to [[Biamont]], a du
 
 Before I could finish my first drink, [[Yondalla]] saw fit to surround me with company: [[Bonnie]], a fairy brighter than dawn and twice as chaotic; [[Keranous Au Raa]], a paladin so tall I get a nosebleed looking up; [[Alice Grace]], a proud forest elf with her wolf Miki, with fangs sharper than daggers; and [[Dimsum Hagao]], an Owlin barbarian enchanted with “shinies”. 
 
-The steward offered a thousand gold. [[Dimsum Hagao|Hagao]] haggled another five hundred — truly a holy number. [[Keranous Au Raa|Keranous]] pledged to bring back goblin heads and demanded a metal statue in his honor. Only [[Yondalla]] knows where [[Biamont]] could find iron nails let alone metal for a statue…
+The steward offered a thousand gold. [[Dimsum Hagao|Hagao]] haggled another five hundred — truly a holy number. [[Keranous]] pledged to bring back goblin heads and demanded a metal statue in his honor. Only [[Yondalla]] knows where [[Biamont]] could find iron nails let alone metal for a statue…
 
 As we poked around the tavern the dwarven barkeep warned me of scheming nobles called [[The Lions]] — the plotting sort. [[Keranous Au Raa|Keranous]] confronted a nervous hooded man, Bolder Hun, trying (poorly) to eavesdrop. From him we learned of a raided caravan three hours southeast. Seems our path was already laid out.
 
